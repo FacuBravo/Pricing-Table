@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="{https://your-url-to-the-solution}">
+    <a href="https://facubravo.github.io/Pricing-Table/index.html">
       Solution
     </a>
     <span> | </span>
